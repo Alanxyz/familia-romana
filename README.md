@@ -1,7 +1,7 @@
-<center>
+<div align="center">
 
 # FAMILIA ROMANA
 
 ![](images/cave_canem.png)
 
-</center>
+</div>
