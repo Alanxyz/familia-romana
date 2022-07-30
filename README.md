@@ -6,6 +6,15 @@
 
 </div>
 
+## Construcción
+
+El libro puede, ademas de leerse en texto plano desde el código fuente, exporte a formatos de lectura comunes como lo son PDF, EPUB y en un futuro a una version web (HTML).
+
+```bash
+make book       # PDF
+make ebook      # EPUB
+```
+
 ## Progreso
 
 | Capitulo | Contenido | Notas | Gramática | Ejercicios | Imágenes |
