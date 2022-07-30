@@ -1,5 +1,10 @@
 documentclass: book
-title: Familia Romana
-fontfamily: libertine
+title: Lingua Latina Per Se Ilustrata I
+subtitle: Familia Romana
+lang: la
 toc: true
+fontfamily: libertine
+geometry:
+  - paperwidth=6in
+  - paperheight=9in
 
