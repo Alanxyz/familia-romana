@@ -6,3 +6,6 @@ book:
 
 ebook:
 	pandoc $(FILES) $(FLAGS) -o familia_romana.epub
+
+plaintext:
+	pandoc $(FILES) $(FLAGS) -o familia_romana.md
