@@ -1,6 +1,10 @@
 # IMPERIVM ROMANVM
 
-Rōma in Italiā est. Italia in Eurōpā est. Graecia in Eurōpā est. Italia et Graecia in Eurōpā sunt. Hispānia quoque in Eurōpā est. Hispānia et Italia et Graecia in Eurōpā sunt. 
+Rōma in Italiā est. Italia in Eurōpā est. Graecia in Eurōpā est. Italia et Graecia in Eurōpā sunt. Hispānia quoque in Eurōpā est. Hispānia et Italia et Graecia in Eurōpā sunt[^11]. 
+
+[^11]: -a, -ā:
+       Italia...
+       _in_ Italiā 
 
 Aegyptus in Eurōpā nōn est, Aegyptus in Āfricā est. Gallia nōn in Āfrica est, Gallia est in Eurōpā. Syria nōn est in Eurōpā, sed in Asiā. Arabia quoque in Asiā est. Syria aet Arabia in Asiā sunt. Germānia nōn in Asiā, sed in Eurōpā est. Britannia quoque in Eurōpā est. Germānia et Britannia sunt in Eurōpā.
 
@@ -22,34 +26,15 @@ Ubi est imperium Rōmanum? imperium Rōmānum est in Eurōpā, in Asiā, in Āfr
 
 In imperiō Rōmānō multae sunt prōvinciae. Magnum est imperium Rōmānum!
 
+## LITTERAE ET NUMERI
 
+I et II numerī sunt. III quoque numerus est. I, II, III numerī Rōmānī sunt. I et II sunt parvī numerī. M magnus numerus est.
 
+A et B litterae sunt. C quoque littera est. A, B, C sunt trēs litterae. A est littera prīma (I), B littera secunda (II), C littera tertia (III). Γ littera Graeca est. C est littera Latīna. C et D litterae Latīnae sunt. Γ et Δ sunt litterae Graecae.
 
+_Fluvius_ et _oppidum_ vocābula Latīna sunt. _Ubi_ quoque vocābulum Latīnum est. In vocābulō _ubi_ sunt trēs litterae. In capitulō prīmō mīlle vocābula sunt. 
 
+In vocābulō _īnsula_ sex litterae et trēs syllabae sunt: syllaba prīma _īn-_, secunda _-su-_, tertia _-la_. In vocābulō _nōn_ sunt trēs litterae et ūna syllaba. 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+Quid est III? III numerus Rōmānus est. Γ quid est? littera Graeca est. Mum C littera Graeca est? Nōn littera Graeca, sed littera Latīna est C. Estne B littera prīma? B nōn littera prīma, sed secunda est. Quid est _nōn_? _Nōn_ est vocābulum Latīnum. _Nōn_, _sed_, _magnus_, _numerus_ vocābula Latīna sunt. _Vocābulum_ quoque vocābulum Latīnum est!
 
