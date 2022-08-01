@@ -20,8 +20,8 @@ make ebook      # EPUB
 | Capitulo | Contenido | Notas | Gramática | Ejercicios | Imágenes |
 |----------|-----------|-------|-----------|------------|----------|
 | I        | X         |       |           |            |          |
-| II       | .         |       |           |            |          |
-| III      |           |       |           |            |          |
+| II       | X         |       |           |            |          |
+| III      | O         |       |           |            |          |
 | IV       |           |       |           |            |          |
 | V        |           |       |           |            |          |
 | VI       |           |       |           |            |          |
